@@ -204,6 +204,7 @@ For the purposes of the project, we were also asked to perform stress testing on
 This project was created by our team consisting of the members below:
 
 - [Alex Kouridakis](https://github.com/alex-kouridakis)
+- [Giorgos Bratsiotis](https://github.com/ICantChooseAName)
 - [Eleftherios Oikonomou](https://github.com/SeCre827)
 - [Vikentios Vitalis](https://github.com/VikentiosVitalis)
 - [Stefanos Tsolos](https://github.com/stefanostsolos)
